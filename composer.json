@@ -10,7 +10,8 @@
     "require": {
         "php": "^5.4",
         "doctrine/doctrine-bundle": "1.*",
-        "symfony/monolog-bundle": "^2.7"
+        "symfony/monolog-bundle": "^2.7",
+        "symfony/security": "^2.6"
     },
     "license": "MIT",
     "authors": [
