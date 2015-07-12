@@ -1,0 +1,22 @@
+{
+    "name": "futjikato/symfony-di-traits",
+    "description": "Collection of traits to use for DI in symfony2",
+    "type": "library",
+    "autoload": {
+        "psr-4": {
+            "Futjikato\\SymfonyTrait\\": "lib/"
+        }
+    },
+    "require": {
+        "php": "^5.4",
+        "doctrine/doctrine-bundle": "1.*",
+        "symfony/monolog-bundle": "^2.7"
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Moritz Spindelhirn",
+            "email": "m.spindelhirn@cashiers-check.de"
+        }
+    ]
+}
